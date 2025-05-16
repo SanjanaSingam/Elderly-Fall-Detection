@@ -1,0 +1,6 @@
+train: C:/Users/susmi/Downloads/phase3&4initial/phase3&4initial/Final_Dataset/train/images
+val: C:/Users/susmi/Downloads/phase3&4initial/phase3&4initial/Final_Dataset/val/images
+test: C:/Users/susmi/Downloads/phase3&4initial/phase3&4initial/Final_Dataset/test/images
+
+nc: 2
+names: ['Falls', 'NonFalls']
